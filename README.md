@@ -1,5 +1,5 @@
 # Medhavi Singh 🚀
-💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/medhavi-singh-vm/) 👩‍💻 GitHub:[ GitHub Profile]([URL](https://github.com/MedhaviSingh))
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/medhavi-singh-vm/) 👩‍💻 GitHub:[ GitHub Profile](https://github.com/MedhaviSingh)
 
 
 ## Education 🎓

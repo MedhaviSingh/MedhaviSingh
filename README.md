@@ -3,11 +3,11 @@
 
 
 ## Education 🎓
-Bachelor of Technology - Computer Science and Engineering 🖥️
-Jaypee University of Information and Technology, Shimla, India 🏫
-GPA: 8.0 📚
-September 2020 - June 2024
-📚 Relevant Courses: Operating Systems, Data Structures, Analysis of Algorithms, Artificial Intelligence, Information Security, Networking.
+Bachelor of Technology - Computer Science and Engineering 🖥️  
+Jaypee University of Information and Technology, Shimla, India 🏫  
+GPA: 8.0 📚  
+September 2020 - June 2024  
+📚 Relevant Courses: Operating Systems, Data Structures, Analysis of Algorithms, Artificial Intelligence, Information Security, Networking.  
 
 ## Skills Summary 🌟
 💻 Languages: Python, PHP, C, C++, JavaScript, SQL, JAVA

@@ -20,8 +20,8 @@ September 2020 - June 2024
 
 ### Microsoft Mentee'22 (Remote)  
 
-Developed a web application with a user interface and face-recognition feature under the guidance of Microsoft mentors, demonstrating strong teamwork, problem-solving skills, and technical expertise.  
-Gained valuable experience working with industry-standard development tools, such as Visual Studio and Git.  
+Developed a web application with a user interface and face-recognition feature that suggested types of food to order based on the user’s expression under the guidance of Microsoft mentors, demonstrating strong teamwork, problem-solving skills, and technical expertise.  
+Gained valuable experience in front-end development, including HTML/CSS layout, JavaScript programming, and utilized Firebase as the database.  
 Participated in regular training sessions and workshops, further developing skills in areas such as software design patterns, cyber security, and data analytics.  
 
 ### Inversion Consultancy LLP- Foxmula (Remote)

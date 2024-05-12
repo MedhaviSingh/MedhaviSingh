@@ -21,13 +21,17 @@ September 2020 - June 2024
 ### Microsoft Mentee'22 (Remote)  
 
 -Developed a user-centric web app featuring face-recognition technology and interactive UI, offering tailored food suggestions according to user emotions, and received guidance from Microsoft experts, highlighting collaborative teamwork, analytical problem-solving skills, and strong technical proficiency.
+
 -Built a front-end development project focusing on HTML/CSS layout and JavaScript programming; implemented Firebase as the primary database.
+
 -Participated in regular training sessions and workshops, further developing skills in areas such as software design patterns, cyber security, and data analytics
 
 ### Inversion Consultancy LLP- Formula (Remote)
 
 -Created a Video Encryption project to enhance cryptography skills.
+
 -Demonstrated proficiency in implementing IPSec, DNS Concept, and Client protection skills, gaining hands-on experience in Cyber Security.
+
 -Exhibited a good work ethic and dedication during training and project phases. 
 
 ## Achievements 🏆
